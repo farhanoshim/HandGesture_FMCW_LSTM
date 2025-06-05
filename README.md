@@ -31,6 +31,7 @@ This preprocessing ensures that the input is suitable for models like LSTM which
 # 4 features: velocity, peak_value, x, y
 # Top-2 objects per frame
 
+
 ## Citation
 
 If you use this data or preprocessing approach, please cite the original dataset paper:
@@ -41,5 +42,4 @@ If you use this data or preprocessing approach, please cite the original dataset
 > https://doi.org/10.3390/electronics11050787
 
 The gesture recognition model used in this project is inspired by the LSTM-based architecture described in the paper above.  
-You can find the official model and code here:  
-🔗 [Original Model Repository (GitHub)](https://github.com/petergry/Hand-Gesture-Recognition-Radar-LSTM)
+You can find the official model and code here:  [Original Model Repository (GitHub)](https://github.com/petergry/Hand-Gesture-Recognition-Radar-LSTM)
