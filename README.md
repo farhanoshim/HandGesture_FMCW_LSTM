@@ -1,5 +1,3 @@
-# HandGesture_FMCW_LSTM
-
 # FMCW Radar Gesture Dataset Preprocessing
 
 This project provides a preprocessing pipeline for gesture recognition data collected using Frequency-Modulated Continuous Wave (FMCW) radar. The data is used to prepare inputs for machine learning models (e.g., LSTM) by selecting the most relevant object points based on radar signal characteristics.
