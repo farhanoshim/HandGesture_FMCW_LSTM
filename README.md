@@ -15,7 +15,7 @@ The gesture data consists of frames with multiple object points. Each object con
 
 Data is stored in CSV format, where each row corresponds to one object in a frame.
 
-## ⚙️ Preprocessing Pipeline
+## Preprocessing Pipeline
 
 The Python script:
 - Reads raw CSV radar data
