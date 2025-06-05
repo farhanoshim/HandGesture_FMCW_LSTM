@@ -30,7 +30,7 @@ This preprocessing ensures that the input is suitable for models like LSTM which
 # 80 frames per gesture
 # 4 features: velocity, peak_value, x, y
 # Top-2 objects per frame
-
+```
 
 ## Citation
 
